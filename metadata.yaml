@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36733'
     url: http://www.gutenberg.org/2009/agents/36733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33925#The-Geological-Story-of-the-Isle-of-Wight
 gutenberg_issued: '2010-10-14'
 gutenberg_type: Text
 identifiers:
