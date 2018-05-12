@@ -1,0 +1,28 @@
+_repo: The-Geological-Story-of-the-Isle-of-Wight_33925
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughes, J. Cecil (John Cecil)
+    alias: Hughes, John Cecil
+    gutenberg_agent_id: '36733'
+    url: http://www.gutenberg.org/2009/agents/36733
+description: ''
+gutenberg_issued: '2010-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33925'
+  lccn: gs23000052
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Paleontology -- England -- Isle of Wight'
+- !lcsh 'Geology, Stratigraphic -- Tertiary'
+- !lcsh 'Geology -- England -- Isle of Wight'
+title: The Geological Story of the Isle of Wight
+url: http://www.gutenberg.org/ebooks/33925
